@@ -1,0 +1,28 @@
+
+Game Name: Ibn Al‑Nasr Battle
+
+Core Features:
+- Iraq inspired map
+- Nasiriyah detailed area
+- 50 player battle royale
+- Custom rooms
+- Voice chat
+- Vehicle system
+- Weapon loot
+- Blue zone shrinking system
+
+Important Locations Planned:
+- Nasiriyah city
+- Al‑Rifa'i
+- Al‑Nasr
+- Al‑Shatra
+- Suq Al‑Shuyukh
+- Chibayish marshlands
+
+Religious Landmarks (3D assets required):
+- Imam Husayn Shrine (Karbala)
+- Imam Ali Shrine (Najaf)
+
+Recommended Unity Tools:
+- Photon Fusion (multiplayer)
+- Firebase (login & database)
